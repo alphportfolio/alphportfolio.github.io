@@ -71,7 +71,7 @@ width: 100%;
     margin-top: 125px;
     overflow: hidden;
     animation:
-    typing 2s steps(15),
+    typing 2s steps(50),
     cursor .4s step-end infinite alternate;
 }
 
