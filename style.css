@@ -10,7 +10,7 @@
 
 body{
     min-height: 100vh;
-    background-color: #28282B;
+    background-color: black;
     background-size: cover;
     background-position: center;
 }
@@ -21,7 +21,7 @@ body{
     left: 0;
     width: 100%;
     padding: 20px 100px;
-    background: transparent;
+    background-color: #28282B;
     display: flex;
     justify-content: space-between;
     align-items: center;
