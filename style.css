@@ -58,3 +58,26 @@ body{
 .navbar a:hover::before{
 width: 100%;
 }
+
+.typewriter { display: inline-block; }
+.text {
+    font-size: 3em;
+    letter-spacing: 10px;
+    font-family: monospace;
+    border-right: 5px solid;
+    width: 100%;
+    white-space: nowrap;
+    margin-top: 125px;
+    overflow: hidden;
+    animation:
+    typing 2s steps(15),
+    cursor .4s step-end infinite alternate;
+}
+
+@keyframes cursor {
+    50% { border-color: transparent }
+}
+
+@keyframes typing {
+    from {width: 0}
+}
