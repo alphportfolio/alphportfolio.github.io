@@ -61,8 +61,8 @@ width: 100%;
 
 .typewriter { display: inline-block; }
 .text {
-    font-size: 3em;
-    letter-spacing: 10px;
+    font-size: 1.5em;
+    letter-spacing: 2px;
     font-family: monospace;
     border-right: 5px solid;
     width: 100%;
