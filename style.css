@@ -66,6 +66,7 @@ width: 100%;
     font-family: monospace;
     border-right: 5px solid;
     width: 100%;
+    color: white;
     white-space: nowrap;
     margin-top: 125px;
     overflow: hidden;
