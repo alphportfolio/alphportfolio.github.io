@@ -15,6 +15,10 @@ body{
     background-position: center;
 }
 
+.alph{
+    text-align: center;
+}
+
 .header{
     position: fixed;
     top: 0;
